@@ -22,17 +22,25 @@ The goal of this project is to understand how marketing and website-related fact
 
 ## Project Workflow
 **1. Data loading** – Load the market campaign sales dataset into a Pandas DataFrame.
+
 **2.Exploratory Data Analysis (EDA)** – Inspect the dataset, understand its structure and descriptive statistics, and check missing values,    duplicates, distributions, and outliers.
+
 **3. Train-test split** – Separate Sales as the target variable and split the data into training and testing sets (80:20).
+
 **4. Data preprocessing**
    - Handle missing numerical values using the median.
    - Handle missing categorical values using the mode.
    - Examine outliers and skewness; apply transformations where appropriate.
    - Encode categorical variables using one-hot encoding.
    - Scale numerical features using StandardScaler.
+
+
 **5. Statistical analysis** – Explore the relationship between sales and numerical/categorical features and perform statistical tests.
+
 **6. Regression diagnostics**– Examine linear regression assumptions, including linearity, multicollinearity (correlation and VIF), residual normality, homoscedasticity, and independence of errors.
+
 **7. Model training –** Train a Linear Regression model using the processed training data.
+
 **8. Model evaluatio**n – Evaluate training and testing predictions using R² Score and RMSE.
 
 
