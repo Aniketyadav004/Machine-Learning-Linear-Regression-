@@ -1,5 +1,6 @@
-## Market Campaign Sales Prediction Project 
--- By Linear Regression--
+# Market Campaign Sales Prediction Project 
+## By Linear Regression
+
 
 A machine learning project that uses Linear Regression to predict sales based on market campaign and business-related data. The notebook covers exploratory data analysis, data cleaning, feature transformation, statistical analysis, regression assumptions, model training, and evaluation.
 Project Overview
